@@ -1,14 +1,8 @@
 # SSU_OpenSource_Lec
 SoongsilUniversity_OpenSource_Lecture
-# test
-## test
-### test
-* test
-  + test
-     - test
-> test
->> test
 
+<hr/>
+> __오픈소스기초설계 수업을 위해 만들어진 페이지입니다.__
 <hr/>
 
 _test_
