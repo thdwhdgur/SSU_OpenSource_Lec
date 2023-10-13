@@ -6,6 +6,7 @@
 '''
 import webbrowser
 from tkinter import *
+#수정정보
 
 # [식당정보]
 
