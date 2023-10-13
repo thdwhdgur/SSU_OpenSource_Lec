@@ -4,9 +4,10 @@
 무엇을 먹고 싶은지부터 선택하면서 최종적으로 음식과 식당선정
 파이썬으로 작성된 코드입니다.
 '''
+# 오픈소스 기초설계 과제 commit, push해보기
+
 import webbrowser
 from tkinter import *
-#수정정보
 
 # [식당정보]
 
